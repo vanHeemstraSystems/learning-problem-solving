@@ -18,6 +18,8 @@ See also "Three Templates for Uncomplicated Product Management" at [three-templa
 
 See also "The Psychology of Problem-Solving" at https://www.youtube.com/watch?v=vg936IW9i7Q
 
+See also "The Essentials of Problem Solving" at https://www.youtube.com/watch?v=6DxTQiJuAoc
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)

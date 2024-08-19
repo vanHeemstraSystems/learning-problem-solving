@@ -3,6 +3,8 @@ learning-problem-solving
 
 Based on "Dragon Master" at https://dragonmaster.imd.org/
 
+Based on "Structured Problem-Solving 8 Step template for Miro" at https://miro.com/app/board/o9J_klFdazM=/?fromEmbed=1
+
 Based on "Solvable" by Arnaud Chevallier at https://powerful-problem-solving.com/
 
 Based on "Agile decision-making – deciding when you don’t have all the facts" by Arnaud Chevallier at https://www.youtube.com/watch?v=zxsG4-JJj6c

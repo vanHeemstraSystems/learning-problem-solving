@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+learning-problem-solving
+# Learning Problem Solving
 
 Based on "ABC" at https://www.abc.com/
 
